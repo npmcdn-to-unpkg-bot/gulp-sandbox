@@ -1,0 +1,20 @@
+npmを最新にする
+npm update -g npm
+
+gulpをインストール
+npm install -g gulp
+
+package.jsonの作成
+npm init
+
+gulpをローカルインストール
+npm install -D gulp
+
+react
+npm install gulp-react
+
+riot
+npm install gulp-riot
+
+webサーバ
+npm install gulp-webserver
