@@ -2,19 +2,22 @@ npmを最新にする
 npm update -g npm
 
 gulpをインストール
-npm install -g gulp
+npm install -save gulp
 
 package.jsonの作成
 npm init
 
 gulpをローカルインストール
-npm install -D gulp
+npm install -save gulp
 
 react
-npm install gulp-react
+npm install -save gulp-react
 
 riot
-npm install gulp-riot
+npm install -save gulp-riot
 
 webサーバ
-npm install gulp-webserver
+npm install -save gulp-webserver
+
+リネーム
+npm install -save gulp-rename
